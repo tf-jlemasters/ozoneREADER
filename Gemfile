@@ -18,6 +18,7 @@ gem "bootsnap", require: false
 gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 gem 'json', '~> 2.6', '>= 2.6.1'
 gem 'better_errors', '~> 2.9', '>= 2.9.1'
+gem 'devise', github: 'heartcombo/devise', branch: 'main'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
